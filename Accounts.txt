@@ -1,0 +1,7 @@
+account number  name
+1005            raju
+1003            rahul
+1004            rohit
+1009            riya
+2002            siya
+
